@@ -1,4 +1,3 @@
-# Maintainer: Slash <demodevil5[at]yahoo[dot]com>
 # $Id$
 # Maintainer: Alexey Ugnichev <alexey.ugnichev@gmail.com>
 
