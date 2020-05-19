@@ -1,6 +1,6 @@
-pkgbase = freeciv-git
-	pkgdesc = A multiuser clone of the famous Microprose game of Civilization (git version)
-	pkgver = 3.0.91.085354a262
+pkgbase = freeciv-experimental-git
+	pkgdesc = A multiuser clone of the famous Microprose game of Civilization, experimental AI modules (git version).
+	pkgver = 3.0.92.1.096887da13
 	pkgrel = 1
 	url = http://www.freeciv.org/
 	arch = x86_64
@@ -27,8 +27,8 @@ pkgbase = freeciv-git
 	provides = freeciv
 	conflicts = freeciv
 	backup = etc/freeciv/database.lua
-	source = freeciv-git::git+https://github.com/freeciv/freeciv.git
+	source = freeciv-experimental-git::git+https://github.com/freeciv/freeciv.git
 	sha256sums = SKIP
 
-pkgname = freeciv-git
+pkgname = freeciv-experimental-git
 

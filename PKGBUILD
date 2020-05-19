@@ -1,10 +1,10 @@
 # $Id$
 # Maintainer: Alexey Ugnichev <alexey.ugnichev@gmail.com>
 
-pkgname=freeciv-git
-pkgver=3.0.91.085354a262
+pkgname=freeciv-experimental-git
+pkgver=3.0.92.1.096887da13
 pkgrel=1
-pkgdesc="A multiuser clone of the famous Microprose game of Civilization (git version)"
+pkgdesc="A multiuser clone of the famous Microprose game of Civilization, experimental AI modules (git version)."
 url="http://www.freeciv.org/"
 license=('GPL')
 arch=('x86_64')
